@@ -1,0 +1,10 @@
+{
+  "name": "node-lru-cache",
+  "version": "2.3.0",
+  "main": "lib/lru-cache.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
